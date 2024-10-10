@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> A versão **2.0** está sendo desenvolvida **agora**, portanto as atualizações para a versão atual estão suspensas. Todas as informações podem ser encontradas em nosso [Discord](https://discord.gg/flute)
+
 <div align="center">
   
 [<kbd><br>🌐 Русский README<br><br></kbd>](./README_RU.md)
