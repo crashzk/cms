@@ -18,7 +18,7 @@
     "balance" => "Saldo",
     "my_balance" => "Meu saldo",
     "my_profile" => "Meu perfil",
-    "admin_panel" => "Painel administrativo",
+    "admin_panel" => "Painel Admin",
     "profile" => "Perfil",
     "page_editor" => "Editor de páginas",
     "main" => "Principal",

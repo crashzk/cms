@@ -14,7 +14,7 @@ return [
     "widget_system"            => "Sistema flexível de widgets",
     "dynamic_colors"           => "Cores dinâmicas",
     "customize_appearance"     => "Personalize a aparência",
-    "improved_admin"           => "Painel administrativo aprimorado",
+    "improved_admin"           => "Painel admin aprimorado",
     "better_management"        => "Gerenciamento fácil e conveniente",
     "start_using"              => "Comece a trabalhar",
     "design_description_1"     => "Redesenhamos todo o sistema para tornar a interface mais intuitiva e confortável para o uso diário.",
